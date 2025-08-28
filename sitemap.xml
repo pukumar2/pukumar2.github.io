@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://pukumar2.github.io/</loc>
+  </url>
+
+  <!-- Papers -->
+  <url>
+    <loc>https://pukumar2.github.io/pubs/sdn-mptcp-mpquic-ietf-draft-03.html</loc>
+  </url>
+  <url>
+    <loc>https://pukumar2.github.io/pubs/seamless-service-migration-quic-iut.html</loc>
+  </url>
+  <url>
+    <loc>https://pukumar2.github.io/pubs/quic-next-generation-transport-springer.html</loc>
+  </url>
+
+  <!-- PDFs -->
+  <url>
+    <loc>https://pukumar2.github.io/pubs/sdn-mptcp-mpquic-ietf-draft-03.pdf</loc>
+  </url>
+  <url>
+    <loc>https://pukumar2.github.io/pubs/seamless-service-migration-quic-iut.pdf</loc>
+  </url>
+  <url>
+    <loc>https://pukumar2.github.io/pubs/quic-next-generation-transport-springer.pdf</loc>
+  </url>
+
+</urlset>
